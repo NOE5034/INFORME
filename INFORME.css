@@ -1,0 +1,35 @@
+﻿section#cuadro {
+    margin:100px;
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    padding: 25px;
+    border-block: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+
+h1{
+font-family:Tahoma;
+text-align:center;
+}
+
+input {
+    margin: 5%;
+    margin-bottom:70px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: #ffffff;
+    border-block-color: #000000;
+    padding: 0px 50px;
+    text-align:center;
+    margin:5px 200px;
+}
+
+a{
+   float:left;
+   margin:0px;
+}
+
